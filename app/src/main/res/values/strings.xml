@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QRCSS</string>
+    <string name="turn_off_flashlight">turn_off_flashlight</string>
+    <string name="turn_on_flashlight">turn_on_flashlight</string>
 </resources>
